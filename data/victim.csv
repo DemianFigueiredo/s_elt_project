@@ -1,0 +1,619 @@
+vic_id,country,year,count
+1,Australia,1998,334
+2,Austria,1998,77
+3,Canada,1998,559
+4,Switzerland,1998,76
+5,Colombia,1998,23089
+6,Costa Rica,1998,224
+7,Czechia,1998,174
+8,Dominica,1998,9
+9,Ecuador,1998,1643
+10,Spain,1998,522
+11,Croatia,1998,105
+12,Israel,1998,147
+13,Italy,1998,889
+14,Jamaica,1998,859
+15,Luxembourg,1998,4
+16,Mexico,1998,13656
+17,Malta,1998,5
+18,Portugal,1998,125
+19,Slovenia,1998,14
+20,Thailand,1998,5361
+21,Uruguay,1998,244
+22,South Africa,1998,25127
+23,Australia,1999,385
+24,Austria,1999,60
+25,Bermuda,1999,2
+26,Canada,1999,539
+27,Switzerland,1999,89
+28,Colombia,1999,24355
+29,Costa Rica,1999,245
+30,Czechia,1999,172
+31,Dominica,1999,7
+32,Ecuador,1999,1682
+33,Spain,1999,486
+34,Croatia,1999,111
+35,Israel,1999,137
+36,Italy,1999,819
+37,Jamaica,1999,854
+38,Luxembourg,1999,6
+39,Mexico,1999,12249
+40,Malta,1999,10
+41,Portugal,1999,109
+42,Slovenia,1999,25
+43,Thailand,1999,5052
+44,Uruguay,1999,216
+45,South Africa,1999,22604
+46,Antigua and Barbuda,2000,5
+47,Australia,2000,362
+48,Austria,2000,82
+49,Belgium,2000,212
+50,Belize,2000,41
+51,Canada,2000,546
+52,Switzerland,2000,69
+53,Colombia,2000,26539
+54,Costa Rica,2000,249
+55,Czechia,2000,191
+56,Dominica,2000,2
+57,Ecuador,2000,1833
+58,Spain,2000,553
+59,Croatia,2000,101
+60,Israel,2000,154
+61,Italy,2000,766
+62,Jamaica,2000,887
+63,Luxembourg,2000,4
+64,Mexico,2000,10737
+65,Malta,2000,4
+66,Portugal,2000,116
+67,Slovenia,2000,36
+68,Thailand,2000,5142
+69,Trinidad and Tobago,2000,120
+70,Uruguay,2000,214
+71,South Africa,2000,21758
+72,Argentina,2001,3129
+73,Antigua and Barbuda,2001,7
+74,Australia,2001,347
+75,Austria,2001,70
+76,Belgium,2001,282
+77,Belize,2001,64
+78,Bermuda,2001,3
+79,Canada,2001,554
+80,Switzerland,2001,86
+81,Colombia,2001,27840
+82,Costa Rica,2001,257
+83,Czechia,2001,135
+84,Dominica,2001,1
+85,Ecuador,2001,1658
+86,Spain,2001,577
+87,Croatia,2001,81
+88,Israel,2001,193
+89,Italy,2001,709
+90,Jamaica,2001,1139
+91,Luxembourg,2001,9
+92,Mexico,2001,10285
+93,Malta,2001,6
+94,Portugal,2001,105
+95,Slovenia,2001,28
+96,Thailand,2001,5020
+97,Trinidad and Tobago,2001,151
+98,Uruguay,2001,218
+99,South Africa,2001,21405
+100,Argentina,2002,3570
+101,Antigua and Barbuda,2002,5
+102,Australia,2002,366
+103,Austria,2002,65
+104,Belgium,2002,319
+105,Belize,2002,87
+106,Bermuda,2002,1
+107,Canada,2002,582
+108,Switzerland,2002,86
+109,Colombia,2002,28387
+110,Costa Rica,2002,258
+111,Czechia,2002,139
+112,Dominica,2002,9
+113,Ecuador,2002,1906
+114,Spain,2002,564
+115,Croatia,2002,73
+116,Israel,2002,208
+117,Italy,2002,644
+118,Jamaica,2002,1045
+119,Luxembourg,2002,6
+120,Mexico,2002,10088
+121,Malta,2002,6
+122,Portugal,2002,119
+123,Slovenia,2002,36
+124,Thailand,2002,4538
+125,Trinidad and Tobago,2002,171
+126,Uruguay,2002,231
+127,South Africa,2002,21553
+128,Argentina,2003,2967
+129,Antigua and Barbuda,2003,5
+130,Australia,2003,302
+131,Austria,2003,50
+132,Belize,2003,67
+133,Bermuda,2003,2
+134,Canada,2003,549
+135,Chile,2003,513
+136,Colombia,2003,23523
+137,Costa Rica,2003,300
+138,Czechia,2003,163
+139,Dominica,2003,8
+140,Spain,2003,587
+141,Croatia,2003,69
+142,Israel,2003,171
+143,Jamaica,2003,975
+144,Luxembourg,2003,3
+145,Mexico,2003,10087
+146,Slovenia,2003,21
+147,Thailand,2003,6434
+148,Trinidad and Tobago,2003,229
+149,Uruguay,2003,197
+150,South Africa,2003,19824
+151,Argentina,2004,2338
+152,Antigua and Barbuda,2004,4
+153,Australia,2004,263
+154,Austria,2004,59
+155,Belize,2004,79
+156,Bermuda,2004,1
+157,Canada,2004,625
+158,Colombia,2004,20210
+159,Costa Rica,2004,280
+160,Czechia,2004,134
+161,Dominica,2004,8
+162,Spain,2004,520
+163,Croatia,2004,83
+164,Israel,2004,159
+165,Jamaica,2004,1471
+166,Luxembourg,2004,2
+167,Mexico,2004,9329
+168,Malta,2004,7
+169,Slovenia,2004,27
+170,Thailand,2004,4273
+171,Trinidad and Tobago,2004,260
+172,Uruguay,2004,200
+173,South Africa,2004,18793
+174,Argentina,2005,2198
+175,Antigua and Barbuda,2005,3
+176,Australia,2005,259
+177,Austria,2005,54
+178,Belize,2005,81
+179,Bermuda,2005,2
+180,Canada,2005,664
+181,Chile,2005,576
+182,Colombia,2005,18111
+183,Costa Rica,2005,335
+184,Czechia,2005,108
+185,Dominica,2005,8
+186,Spain,2005,518
+187,Croatia,2005,68
+188,Israel,2005,169
+189,Italy,2005,610
+190,Jamaica,2005,1674
+191,Luxembourg,2005,4
+192,Mexico,2005,9921
+193,Malta,2005,4
+194,Portugal,2005,135
+195,Slovenia,2005,20
+196,Thailand,2005,4806
+197,Trinidad and Tobago,2005,386
+198,Uruguay,2005,190
+199,South Africa,2005,18528
+200,Argentina,2006,2111
+201,Antigua and Barbuda,2006,11
+202,Australia,2006,281
+203,Austria,2006,61
+204,Belize,2006,92
+205,Bermuda,2006,3
+206,Canada,2006,608
+207,Chile,2006,590
+208,Colombia,2006,17479
+209,Costa Rica,2006,351
+210,Czechia,2006,130
+211,Dominica,2006,5
+212,Spain,2006,476
+213,Croatia,2006,74
+214,Israel,2006,153
+215,Italy,2006,625
+216,Jamaica,2006,1340
+217,Luxembourg,2006,7
+218,Mexico,2006,10452
+219,Slovenia,2006,12
+220,Thailand,2006,4687
+221,Trinidad and Tobago,2006,371
+222,Uruguay,2006,202
+223,South Africa,2006,19106
+224,Argentina,2007,2139
+225,Antigua and Barbuda,2007,17
+226,Australia,2007,255
+227,Austria,2007,45
+228,Belize,2007,97
+229,Bermuda,2007,3
+230,Canada,2007,597
+231,Chile,2007,616
+232,Colombia,2007,17198
+233,Costa Rica,2007,369
+234,Czechia,2007,126
+235,Dominica,2007,7
+236,Ecuador,2007,2273
+237,Spain,2007,482
+238,Croatia,2007,62
+239,Israel,2007,135
+240,Italy,2007,631
+241,Jamaica,2007,1584
+242,Luxembourg,2007,7
+243,Mexico,2007,8867
+244,Malta,2007,4
+245,Slovenia,2007,24
+246,Thailand,2007,4435
+247,Trinidad and Tobago,2007,391
+248,Uruguay,2007,194
+249,South Africa,2007,18400
+250,Argentina,2008,2371
+251,Antigua and Barbuda,2008,16
+252,Australia,2008,261
+253,Austria,2008,58
+254,Belize,2008,103
+255,Bermuda,2008,5
+256,Canada,2008,614
+257,Chile,2008,588
+258,Colombia,2008,16140
+259,Costa Rica,2008,512
+260,Czechia,2008,114
+261,Dominica,2008,7
+262,Ecuador,2008,2607
+263,Spain,2008,407
+264,Croatia,2008,71
+265,Israel,2008,120
+266,Italy,2008,615
+267,Jamaica,2008,1619
+268,Luxembourg,2008,8
+269,Mexico,2008,14006
+270,Malta,2008,6
+271,Slovenia,2008,10
+272,Thailand,2008,3974
+273,Trinidad and Tobago,2008,547
+274,Uruguay,2008,221
+275,South Africa,2008,18084
+276,Argentina,2009,2642
+277,Antigua and Barbuda,2009,16
+278,Australia,2009,263
+279,Austria,2009,51
+280,Belize,2009,97
+281,Bermuda,2009,6
+282,Canada,2009,610
+283,Switzerland,2009,51
+284,Chile,2009,630
+285,Colombia,2009,15817
+286,Costa Rica,2009,525
+287,Czechia,2009,94
+288,Dominica,2009,13
+289,Ecuador,2009,2625
+290,Spain,2009,412
+291,Croatia,2009,49
+292,Israel,2009,144
+293,Italy,2009,590
+294,Jamaica,2009,1683
+295,Luxembourg,2009,5
+296,Mexico,2009,19803
+297,Malta,2009,4
+298,Slovenia,2009,13
+299,Thailand,2009,3703
+300,Trinidad and Tobago,2009,507
+301,Uruguay,2009,226
+302,South Africa,2009,16767
+303,Argentina,2010,2384
+304,Antigua and Barbuda,2010,6
+305,Australia,2010,231
+306,Austria,2010,61
+307,Belize,2010,129
+308,Bermuda,2010,7
+309,Canada,2010,557
+310,Switzerland,2010,52
+311,Chile,2010,541
+312,Colombia,2010,15459
+313,Costa Rica,2010,527
+314,Czechia,2010,103
+315,Dominica,2010,15
+316,Ecuador,2010,2624
+317,Spain,2010,401
+318,Croatia,2010,62
+319,Israel,2010,150
+320,Italy,2010,529
+321,Jamaica,2010,1447
+322,Luxembourg,2010,10
+323,Mexico,2010,25757
+324,Malta,2010,4
+325,Portugal,2010,124
+326,Slovenia,2010,15
+327,Thailand,2010,3654
+328,Trinidad and Tobago,2010,473
+329,Uruguay,2010,205
+330,South Africa,2010,15893
+331,Argentina,2011,2511
+332,Australia,2011,248
+333,Austria,2011,77
+334,Belize,2011,124
+335,Bermuda,2011,8
+336,Canada,2011,609
+337,Switzerland,2011,46
+338,Chile,2011,636
+339,Colombia,2011,16127
+340,Costa Rica,2011,474
+341,Czechia,2011,86
+342,Dominica,2011,6
+343,Ecuador,2011,2343
+344,Spain,2011,385
+345,Croatia,2011,49
+346,Israel,2011,147
+347,Italy,2011,552
+348,Jamaica,2011,1133
+349,Luxembourg,2011,4
+350,Mexico,2011,27213
+351,Malta,2011,3
+352,Portugal,2011,114
+353,Slovenia,2011,16
+354,Thailand,2011,3307
+355,Trinidad and Tobago,2011,352
+356,Uruguay,2011,199
+357,South Africa,2011,15554
+358,Argentina,2012,2648
+359,Antigua and Barbuda,2012,10
+360,Australia,2012,243
+361,Austria,2012,81
+362,Belize,2012,145
+363,Bermuda,2012,6
+364,Canada,2012,549
+365,Switzerland,2012,45
+366,Chile,2012,434
+367,Colombia,2012,16440
+368,Costa Rica,2012,407
+369,Czechia,2012,105
+370,Ecuador,2012,1922
+371,Spain,2012,364
+372,Croatia,2012,51
+373,Israel,2012,128
+374,Italy,2012,530
+375,Jamaica,2012,1102
+376,Mexico,2012,25967
+377,Malta,2012,12
+378,Portugal,2012,122
+379,Slovenia,2012,14
+380,Trinidad and Tobago,2012,380
+381,Uruguay,2012,267
+382,South Africa,2012,16213
+383,Argentina,2013,3072
+384,Australia,2013,245
+385,Austria,2013,61
+386,Belize,2013,99
+387,Bermuda,2013,5
+388,Canada,2013,509
+389,Switzerland,2013,57
+390,Chile,2013,556
+391,Colombia,2013,15422
+392,Costa Rica,2013,411
+393,Czechia,2013,90
+394,Ecuador,2013,1725
+395,Spain,2013,302
+396,Croatia,2013,46
+397,Israel,2013,127
+398,Italy,2013,502
+399,Jamaica,2013,1202
+400,Luxembourg,2013,1
+401,Mexico,2013,23063
+402,Malta,2013,7
+403,Portugal,2013,144
+404,Slovenia,2013,12
+405,Trinidad and Tobago,2013,407
+406,Uruguay,2013,260
+407,South Africa,2013,17023
+408,Argentina,2014,3228
+409,Australia,2014,243
+410,Austria,2014,42
+411,Belize,2014,123
+412,Bermuda,2014,4
+413,Canada,2014,525
+414,Switzerland,2014,41
+415,Chile,2014,438
+416,Colombia,2014,13343
+417,Costa Rica,2014,477
+418,Czechia,2014,81
+419,Dominica,2014,9
+420,Ecuador,2014,1310
+421,Spain,2014,323
+422,Croatia,2014,36
+423,Israel,2014,108
+424,Italy,2014,475
+425,Jamaica,2014,1005
+426,Luxembourg,2014,4
+427,Mexico,2014,20010
+428,Malta,2014,6
+429,Portugal,2014,92
+430,Slovenia,2014,16
+431,Trinidad and Tobago,2014,405
+432,Uruguay,2014,268
+433,South Africa,2014,17805
+434,Argentina,2015,2837
+435,Australia,2015,236
+436,Austria,2015,44
+437,Belize,2015,119
+438,Bermuda,2015,4
+439,Canada,2015,611
+440,Switzerland,2015,57
+441,Chile,2015,419
+442,Colombia,2015,12783
+443,Costa Rica,2015,557
+444,Czechia,2015,88
+445,Dominica,2015,9
+446,Ecuador,2015,1050
+447,Spain,2015,302
+448,Croatia,2015,37
+449,Israel,2015,110
+450,Italy,2015,469
+451,Jamaica,2015,1209
+452,Luxembourg,2015,5
+453,Mexico,2015,20762
+454,Malta,2015,4
+455,Portugal,2015,100
+456,Slovenia,2015,20
+457,Trinidad and Tobago,2015,420
+458,Uruguay,2015,293
+459,South Africa,2015,18673
+460,Argentina,2016,2625
+461,Australia,2016,227
+462,Austria,2016,54
+463,Belize,2016,138
+464,Bermuda,2016,8
+465,Canada,2016,616
+466,Switzerland,2016,45
+467,Chile,2016,620
+468,Colombia,2016,12402
+469,Costa Rica,2016,578
+470,Czechia,2016,65
+471,Dominica,2016,16
+472,Ecuador,2016,959
+473,Spain,2016,294
+474,Croatia,2016,44
+475,Israel,2016,104
+476,Italy,2016,404
+477,Jamaica,2016,1354
+478,Luxembourg,2016,5
+479,Mexico,2016,24559
+480,Malta,2016,5
+481,Portugal,2016,66
+482,Slovenia,2016,10
+483,Trinidad and Tobago,2016,463
+484,Uruguay,2016,267
+485,South Africa,2016,19016
+486,Argentina,2017,2317
+487,Antigua and Barbuda,2017,20
+488,Australia,2017,208
+489,Austria,2017,70
+490,Belize,2017,142
+491,Bermuda,2017,5
+492,Canada,2017,665
+493,Switzerland,2017,45
+494,Chile,2017,779
+495,Colombia,2017,12298
+496,Costa Rica,2017,603
+497,Czechia,2017,66
+498,Dominica,2017,19
+499,Ecuador,2017,970
+500,Spain,2017,307
+501,Croatia,2017,46
+502,Israel,2017,123
+503,Italy,2017,376
+504,Jamaica,2017,1647
+505,Luxembourg,2017,2
+506,Mexico,2017,32079
+507,Malta,2017,8
+508,Portugal,2017,76
+509,Slovenia,2017,19
+510,Trinidad and Tobago,2017,495
+511,Uruguay,2017,283
+512,South Africa,2017,20336
+513,Argentina,2018,2384
+514,Antigua and Barbuda,2018,12
+515,Australia,2018,221
+516,Austria,2018,86
+517,Belize,2018,143
+518,Canada,2018,662
+519,Switzerland,2018,50
+520,Chile,2018,825
+521,Colombia,2018,12926
+522,Costa Rica,2018,585
+523,Dominica,2018,13
+524,Ecuador,2018,994
+525,Spain,2018,289
+526,Croatia,2018,24
+527,Israel,2018,116
+528,Italy,2018,359
+529,Jamaica,2018,1289
+530,Luxembourg,2018,3
+531,Mexico,2018,36685
+532,Malta,2018,8
+533,Portugal,2018,81
+534,Slovenia,2018,9
+535,Trinidad and Tobago,2018,517
+536,Uruguay,2018,421
+537,South Africa,2018,21022
+538,Argentina,2019,2307
+539,Antigua and Barbuda,2019,3
+540,Australia,2019,225
+541,Austria,2019,77
+542,Belize,2019,134
+543,Canada,2019,689
+544,Switzerland,2019,46
+545,Chile,2019,751
+546,Colombia,2019,12925
+547,Costa Rica,2019,563
+548,Czechia,2019,97
+549,Dominica,2019,13
+550,Ecuador,2019,1187
+551,Spain,2019,331
+552,Croatia,2019,33
+553,Israel,2019,132
+554,Italy,2019,317
+555,Jamaica,2019,1340
+556,Luxembourg,2019,4
+557,Mexico,2019,36661
+558,Malta,2019,5
+559,Portugal,2019,73
+560,Slovenia,2019,14
+561,Trinidad and Tobago,2019,539
+562,Uruguay,2019,394
+563,South Africa,2019,21325
+564,Argentina,2020,2417
+565,Antigua and Barbuda,2020,9
+566,Australia,2020,221
+567,Austria,2020,65
+568,Belize,2020,102
+569,Bermuda,2020,7
+570,Canada,2020,759
+571,Switzerland,2020,47
+572,Chile,2020,926
+573,Colombia,2020,12347
+574,Costa Rica,2020,570
+575,Czechia,2020,77
+576,Dominica,2020,15
+577,Ecuador,2020,1372
+578,Spain,2020,298
+579,Croatia,2020,40
+580,Israel,2020,125
+581,Italy,2020,285
+582,Jamaica,2020,1333
+583,Luxembourg,2020,3
+584,Mexico,2020,36773
+585,Malta,2020,7
+586,Portugal,2020,81
+587,Slovenia,2020,11
+588,Trinidad and Tobago,2020,399
+589,Uruguay,2020,338
+590,South Africa,2020,19972
+591,Argentina,2021,2093
+592,Antigua and Barbuda,2021,16
+593,Australia,2021,193
+594,Austria,2021,65
+595,Belgium,2021,125
+596,Belize,2021,125
+597,Bermuda,2021,7
+598,Canada,2021,788
+599,Switzerland,2021,42
+600,Chile,2021,708
+601,Colombia,2021,14159
+602,Costa Rica,2021,588
+603,Czechia,2021,47
+604,Dominica,2021,10
+605,Ecuador,2021,2496
+606,Spain,2021,290
+607,Croatia,2021,33
+608,Israel,2021,173
+609,Italy,2021,303
+610,Jamaica,2021,1474
+611,Luxembourg,2021,4
+612,Mexico,2021,35700
+613,Malta,2021,2
+614,Portugal,2021,82
+615,Slovenia,2021,9
+616,Trinidad and Tobago,2021,448
+617,Uruguay,2021,305
+618,South Africa,2021,24865

@@ -1,0 +1,74 @@
+treat_id,country,year,count
+1,South Africa,2020,13417
+2,South Africa,2018,17881
+3,South Africa,2017,19492
+4,Antigua and Barbuda,2021,11
+5,Jamaica,2013,94
+6,Costa Rica,2020,38630
+7,Costa Rica,2019,16844
+8,Costa Rica,2018,23285
+9,Costa Rica,2017,10499
+10,Mexico,2021,96772
+11,Mexico,2020,71949
+12,Mexico,2019,121228
+13,Mexico,2018,92458
+14,Mexico,2017,77681
+15,Argentina,2018,50266
+16,Chile,2021,16497
+17,Chile,2020,15517
+18,Chile,2019,20467
+19,Chile,2018,21294
+20,Chile,2017,20807
+21,Colombia,2021,9175
+22,Colombia,2019,5448
+23,Colombia,2018,4778
+24,Colombia,2017,4275
+25,Ecuador,2021,53609
+26,Ecuador,2019,110970
+27,Uruguay,2021,2730
+28,Uruguay,2020,2204
+29,Uruguay,2019,2567
+30,Uruguay,2018,2285
+31,Uruguay,2017,1786
+32,Thailand,2019,227126
+33,Croatia,2021,5378
+34,Croatia,2020,5478
+35,Croatia,2018,6831
+36,Croatia,2017,7241
+37,Austria,2020,4531
+38,Austria,2019,5056
+39,Austria,2018,4830
+40,Austria,2017,4414
+41,Belgium,2021,11991
+42,Belgium,2020,11017
+43,Belgium,2018,11014
+44,Belgium,2017,11066
+45,Czechia,2020,7006
+46,Czechia,2019,4386
+47,Czechia,2018,7509
+48,Czechia,2017,4775
+49,Italy,2021,123871
+50,Italy,2020,125428
+51,Italy,2019,136320
+52,Italy,2018,133060
+53,Italy,2017,129956
+54,Luxembourg,2021,241
+55,Luxembourg,2020,239
+56,Luxembourg,2018,306
+57,Malta,2020,1984
+58,Malta,2020,1984
+59,Malta,2017,1845
+60,Portugal,2021,23932
+61,Portugal,2020,23569
+62,Portugal,2019,3471
+63,Portugal,2018,3461
+64,Portugal,2017,3307
+65,Slovenia,2021,1672
+66,Slovenia,2020,1794
+67,Slovenia,2018,2488
+68,Spain,2020,38544
+69,Spain,2019,50035
+70,Spain,2018,47972
+71,Spain,2017,46799
+72,Australia,2021,86014
+73,Australia,2017,85233
