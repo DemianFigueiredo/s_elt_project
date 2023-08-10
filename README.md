@@ -51,46 +51,51 @@ DataFrame contains 5 tables:
 
 - Table: legal_decrime
     This table contains information about the legal status of cannabis decriminalization or legalization and associated years for each           country.
+    
     Columns:
-    o	country_id: The unique identifier for each country.
-    o	country: The name of the country.
-    o	legal_descriminalized: A flag indicating the legal status of cannabis, where 1 represents decriminalization and 2 represents             legalization.
-    o	year_-3 to year_3: Columns for future analysis, indicating years before and after cannabis policy changes. Year_0 equal to year         of law application.
+    country_id: The unique identifier for each country.
+    country: The name of the country.
+    legal_descriminalized: A flag indicating the legal status of cannabis, where 1 represents decriminalization and 2 represents         legalization.
+    oyear_-3 to year_3: Columns for future analysis, indicating years before and after cannabis policy changes. Year_0 equal to year         of law application.
 
--Table: drug_seizure
+- Table: drug_seizure
     This table stores information about drug seizures, including the drug type, quantity, and associated country.
+    
     Columns:
-    o	drug_id: The unique identifier for each drug seizure.
-    o	country: The name of the country where the seizure occurred.
-    o	drug_group: The category or group to which the drug belongs.
-    o	year: The year when the drug seizure took place.
-    o	kg: The quantity of drugs seized in kilograms.
+    drug_id: The unique identifier for each drug seizure.
+    country: The name of the country where the seizure occurred.
+    drug_group: The category or group to which the drug belongs.
+    year: The year when the drug seizure took place.
+    kg: The quantity of drugs seized in kilograms.
  
--Table: prison
+- Table: prison
     This table maintains information about prison statistics, including the count of prisoners and their associated attributes.
+    
     Columns:
-    o	prison_id: The unique identifier for each prison entry.
-    o	country: The name of the country to which the prison statistics belong.
-    o	indicators: indicators associated with prison [entering in prison/ priosioners on held]
-    o	crime_category: The category of crimes for which prisoners are incarcerated.
-    o	year: The year of the prison statistics.
-    o	count: The count of prisoners for the specific indicator, category and year.
+    prison_id: The unique identifier for each prison entry.
+    country: The name of the country to which the prison statistics belong.
+    indicators: indicators associated with prison [entering in prison/ priosioners on held]
+    crime_category: The category of crimes for which prisoners are incarcerated.
+    year: The year of the prison statistics.
+    count: The count of prisoners for the specific indicator, category and year.
 
--Table: treat
+- Table: treat
     This table contains information about addiction treatment statistics, including the count of individuals receiving treatment.
+    
     Columns:
-    o	treat_id: The unique identifier for each treatment entry.
-    o	year: The year of the treatment statistics.
-    o	country: The name of the country where the treatment data is collected.
-    o	count: The count of individuals receiving addiction treatment.
+    treat_id: The unique identifier for each treatment entry.
+    year: The year of the treatment statistics.
+    country: The name of the country where the treatment data is collected.
+    count: The count of individuals receiving addiction treatment.
 
--Table: victim
+- Table: victim
     This table stores information about crimes and victims affected by drug-related or co-related incidents.
+    
     Columns:
-    o	vic_id: The unique identifier for each victim/accurance entry.
-    o	country: The name of the country where the victimization occurred.
-    o	year: The year of the incident.
-    o	count: The count of victims or crimes occurrences 
+    vic_id: The unique identifier for each victim/accurance entry.
+    country: The name of the country where the victimization occurred.
+    year: The year of the incident.
+    count: The count of victims or crimes occurrences 
 
 Database creation and seeding saved as .sql files inside folder database.
 
